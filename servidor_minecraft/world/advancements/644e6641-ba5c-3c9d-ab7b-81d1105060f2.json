@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-05 16:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-05 16:20:30 +0000"
@@ -635,6 +641,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "rocky_shrubland": "2025-01-05 16:34:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
     "criteria": {
       "has_birch_planks": "2025-01-05 16:20:30 +0000"
@@ -686,6 +698,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-01-05 16:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-05 16:31:33 +0000"
     },
     "done": true
   },
@@ -1066,6 +1084,12 @@
       "has_boat": "2025-01-05 16:21:58 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "rocky_shrubland": "2025-01-05 16:34:07 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {

@@ -3924,3 +3924,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jan2025 16:28:11.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hollow51 left the game
 [05Jan2025 16:28:11.657] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client hollow51
 [05Jan2025 16:31:33.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArixArche withered away whilst fighting Hornet Harbinger
+[05Jan2025 16:34:44.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArixArche lost connection: Timed out
+[05Jan2025 16:34:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArixArche left the game
+[05Jan2025 16:34:44.856] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ArixArche

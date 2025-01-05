@@ -7694,3 +7694,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jan2025 16:30:15.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jan2025 16:30:15.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jan2025 16:31:33.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArixArche withered away whilst fighting Hornet Harbinger
+[05Jan2025 16:34:44.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArixArche lost connection: Timed out
+[05Jan2025 16:34:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArixArche left the game
+[05Jan2025 16:34:44.856] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ArixArche
+[05Jan2025 16:34:44.856] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ArixArche
+[05Jan2025 16:35:15.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 16:35:15.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 16:40:15.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 16:40:15.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
