@@ -7441,3 +7441,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jan2025 18:21:54.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xime6913 left the game
 [05Jan2025 18:21:54.927] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Xime6913
 [05Jan2025 18:21:54.927] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xime6913
+[05Jan2025 18:24:30.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 18:24:30.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 18:29:30.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 18:29:30.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
