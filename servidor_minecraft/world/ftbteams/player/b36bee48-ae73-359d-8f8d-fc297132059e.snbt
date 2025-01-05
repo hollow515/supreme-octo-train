@@ -1,0 +1,17 @@
+{
+	id: "b36bee48-ae73-359d-8f8d-fc297132059e"
+	type: "player"
+	player_name: "hollow51"
+	ranks: {
+		b36bee48-ae73-359d-8f8d-fc297132059e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "hollow51"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB159"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

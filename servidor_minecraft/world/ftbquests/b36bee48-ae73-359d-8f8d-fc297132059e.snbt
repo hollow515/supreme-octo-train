@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b36bee48ae73359d8f8dfc297132059e"
+	name: "hollow51#b36bee48"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

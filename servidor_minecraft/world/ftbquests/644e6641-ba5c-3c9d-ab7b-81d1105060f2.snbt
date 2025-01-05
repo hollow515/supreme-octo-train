@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "644e6641ba5c3c9dab7b81d1105060f2"
+	name: "ArixArche#644e6641"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "644e6641-ba5c-3c9d-ab7b-81d1105060f2"
+	type: "player"
+	player_name: "ArixArche"
+	ranks: {
+		644e6641-ba5c-3c9d-ab7b-81d1105060f2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ArixArche"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DD59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
