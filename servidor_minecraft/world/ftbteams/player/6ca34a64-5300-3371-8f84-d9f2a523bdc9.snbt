@@ -1,0 +1,17 @@
+{
+	id: "6ca34a64-5300-3371-8f84-d9f2a523bdc9"
+	type: "player"
+	player_name: "Xime6913"
+	ranks: {
+		6ca34a64-5300-3371-8f84-d9f2a523bdc9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Xime6913"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFCA59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

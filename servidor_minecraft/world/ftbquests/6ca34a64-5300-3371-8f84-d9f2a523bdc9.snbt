@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6ca34a64530033718f84d9f2a523bdc9"
+	name: "Xime6913#6ca34a64"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
