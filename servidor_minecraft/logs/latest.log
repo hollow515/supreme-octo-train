@@ -3855,3 +3855,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jan2025 18:07:43.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xime6913 has completed the challenge [The Undead]
 [05Jan2025 18:07:44.094] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xime6913 (18)
 [05Jan2025 18:07:44.096] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xime6913
+[05Jan2025 18:19:34.112] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Jan2025 18:19:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xime6913 has reached the goal [Feeling Watched]
+[05Jan2025 18:20:13.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xime6913 lost connection: Disconnected
+[05Jan2025 18:20:13.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xime6913 left the game
+[05Jan2025 18:20:13.781] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xime6913
+[05Jan2025 18:20:13.877] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jan2025 18:21:09.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xime6913[/[::1]:58280] logged in with entity id 3962 at (-441.3217568797407, 64.0, 125.00792747940461)
+[05Jan2025 18:21:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xime6913 joined the game
+[05Jan2025 18:21:09.892] [Server thread/INFO] [Jade/]: Syncing config to Xime6913 (6ca34a64-5300-3371-8f84-d9f2a523bdc9)
+[05Jan2025 18:21:10.792] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xime6913 (18)
+[05Jan2025 18:21:10.793] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xime6913
+[05Jan2025 18:21:54.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xime6913 lost connection: Timed out
+[05Jan2025 18:21:54.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xime6913 left the game
+[05Jan2025 18:21:54.927] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xime6913
